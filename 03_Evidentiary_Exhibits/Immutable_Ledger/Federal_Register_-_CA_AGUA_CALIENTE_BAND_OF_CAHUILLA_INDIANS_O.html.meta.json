@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=CA+AGUA+CALIENTE+BAND+OF+CAHUILLA+INDIANS+O",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=CA+AGUA+CALIENTE+BAND+OF+CAHUILLA+INDIANS+O",
+  "title": "Federal Register - CA AGUA CALIENTE BAND OF CAHUILLA INDIANS O",
+  "fetched_at": "2026-11-23T17:51:17.373726Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 153347,
+  "sha256": "970f98d7cf005a0503d97c3ee714690af896451a4ea641c45168885b89584633",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
